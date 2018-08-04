@@ -1,1 +1,5 @@
-Creating a new branch is quick & simple
+<<<<<<< HEAD
+=======
+# remote
+Creating a new branch is quick and simple
+>>>>>>> feature1
